@@ -8,7 +8,7 @@ Turning designs into smooth, usable experiences
 </p>
 <p>
   <img align="right" alt="NILOFAR" width ="350" border_radios ="10px"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh1amp6ZGRnb2g2NGI2OTh4MzMxMHRrMGg1eW02MWw3cDBvdHhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif">
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F5cTBzNnBmY2pnOGNzajJjMHk3MnBudGhmOTd0ZWQ5MGh0bTIwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif">
 
 </p>
 
@@ -50,4 +50,10 @@ Turning designs into smooth, usable experiences
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" />
 </p>
 
+
+<div>
+  <img align="right" alt="NILOFAR" width ="350" border_radios ="10px"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh1amp6ZGRnb2g2NGI2OTh4MzMxMHRrMGg1eW02MWw3cDBvdHhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif]https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F5cTBzNnBmY2pnOGNzajJjMHk3MnBudGhmOTd0ZWQ5MGh0bTIwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif">
+
+</div>
 
